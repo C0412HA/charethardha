@@ -1,1 +1,22 @@
-<h1> hi this charethardha chowdary </h1>
+h1> hi this charethardha chowdary </h1>
+[200~
+border-bottom-left-radius 8px
+border-bottom-right-radius 8px
+border-top-left-radius 8px
+border-top-right-radius 8px
+box-sizing border-box
+color rgb(16, 22, 47)
+column-gap 24px
+display grid
+font-family Apercu, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif
+font-weight 400
+grid-template-columns 26.2784px 26.2784px 26.2784px 26.2784px 26.2784px 26.2784px 26.2784px 26.2784px 26.2784px 26.2784px 26.2784px 26.2784px
+height 312.49px
+line-height 18px
+margin-bottom 36px
+padding-bottom 24px
+padding-left 24px
+padding-right 24px
+padding-top 24px
+
+
